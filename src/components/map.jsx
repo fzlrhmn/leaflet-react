@@ -10,8 +10,8 @@ class Maps extends Component {
 
     this.state = {
       geo: {
-        "type": "FeatureCollection",
-        "features": []
+        type: "FeatureCollection",
+        features: []
       },
       position: [-6.905210504370536, 107.60876655578613],
       sidebarMenu: [{
